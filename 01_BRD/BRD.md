@@ -10,13 +10,12 @@
 | Prepared By  | Isha Pawar                    |
  
 
----
 
 # 1. Introduction
 
 CloudVault is a secure cloud storage web application that enables users to upload, download, organize, search, rename, and delete files securely. The application provides authenticated users with a reliable platform to store and manage their files online.
 
----
+
 
 # 2. Business Objectives
 
@@ -26,7 +25,7 @@ CloudVault is a secure cloud storage web application that enables users to uploa
 * Protect user data from unauthorized access.
 * Deliver a simple and user-friendly experience.
 
----
+
 
 # 3. Project Scope
 
@@ -44,7 +43,7 @@ The application supports the following features:
 * User Profile
 * Logout
 
----
+
 
 # 4. Stakeholders
 
@@ -55,7 +54,7 @@ The application supports the following features:
 * QA Team
 * End Users
 
----
+
 
 # 5. User Roles
 
@@ -74,7 +73,7 @@ A registered user can:
 * Update profile
 * Logout
 
----
+
 
 # 6. Business Requirements
 
@@ -90,7 +89,7 @@ A registered user can:
 | BR-008         | User should be able to update profile information.     |
 | BR-009         | User should be able to log out securely.               |
 
----
+
 
 # 7. Assumptions
 
@@ -98,7 +97,7 @@ A registered user can:
 * Users access the application through a supported web browser.
 * Each user has a unique email address.
 
----
+
 
 # 8. Constraints
 
@@ -106,7 +105,7 @@ A registered user can:
 * Supported file types: PDF, DOCX, XLSX, JPG, PNG, MP4, ZIP.
 * Only authenticated users can access file management features.
 
----
+
 
 # 9. Out of Scope
 

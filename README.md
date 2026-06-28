@@ -1,13 +1,10 @@
+
 # ☁️ CloudVault-QA
 
-> A complete Manual Testing portfolio project demonstrating the Software Testing Life Cycle (STLC) for a cloud storage web application.
+A complete Manual Testing portfolio project demonstrating the Software Testing Life Cycle (STLC) for a cloud storage web application.
 
-![Status](https://img.shields.io/badge/Project-In%20Progress-blue)
-![Testing](https://img.shields.io/badge/Testing-Manual-green)
-![Tool](https://img.shields.io/badge/Tool-Postman-orange)
-![Database](https://img.shields.io/badge/Database-MySQL-blue)
 
----
+
 
 # 📌 Project Overview
 
@@ -26,7 +23,7 @@ Users can:
 * Update Profile
 * Logout
 
----
+
 
 # 🎯 Project Objective
 
@@ -34,11 +31,11 @@ The objective of this project is to perform end-to-end Manual Testing by prepari
 
 This repository demonstrates requirement analysis, test planning, test design, bug reporting, API testing, database validation, and final test reporting.
 
----
+
 
 # 📂 Repository Structure
 
-```text
+
 CloudVault-QA
 │
 ├── README.md
@@ -54,9 +51,9 @@ CloudVault-QA
 ├── 10_SQL_Validation
 ├── 11_Test_Summary
 └── 12_Screenshots
-```
 
----
+
+
 
 # 📋 Modules Covered
 
@@ -72,7 +69,7 @@ CloudVault-QA
 * User Profile
 * Logout
 
----
+
 
 # 🧪 Testing Types
 
@@ -85,7 +82,7 @@ CloudVault-QA
 * API Testing
 * Database Testing
 
----
+
 
 # 🛠️ Tools & Technologies
 
@@ -99,7 +96,7 @@ CloudVault-QA
 | Visual Studio Code | Documentation                                |
 | Markdown           | Documentation                                |
 
----
+
 
 # 📑 Project Deliverables
 
@@ -115,7 +112,6 @@ CloudVault-QA
 * SQL Validation
 * Test Summary Report
 
----
 
 # 🚀 Future Enhancements
 
@@ -125,7 +121,7 @@ CloudVault-QA
 * Jenkins CI/CD Integration
 * Allure Reporting
 
----
+
 
 # 👩‍💻 Author
 
@@ -135,3 +131,5 @@ Aspiring Software Test Engineer
 
 * GitHub: https://www.github.com/ishapawar0617-bot
 * LinkedIn: https://www.linkedin.com/in/isha-pawar-b2094b256
+
+# CloudVault-QA
