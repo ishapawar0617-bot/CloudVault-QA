@@ -50,7 +50,7 @@ CloudVault-QA
 ├── 09_API_Testing
 ├── 10_SQL_Validation
 ├── 11_Test_Summary
-└── 12_Screenshots
+
 
 
 
